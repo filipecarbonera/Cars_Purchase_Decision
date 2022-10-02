@@ -1,16 +1,14 @@
 # Cars Purchase Decision
 
-[Acesse aqui](https://colab.research.google.com/drive/1FdBK2hD1w-P-fGfLawjPP78k2qefPJzd) o notebook no Google Colab.
+Com esse repositório pude treinar habilidades relacionadas a ciência de dados. Nele realizei uma análise exploratória dos dados, criei um modelo simplificado a partir de tal análise e, por fim, comparei tal modelo simplificado com um modelo de machine learning.
 
-O notebook presente neste repositório é uma prévia da análise que será realizada.
+O dataset utilizado neste projeto pode ser encontrado no seguinte [link](https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset) do Kaggle.
 
-Para avançar no projeto:
+Para melhorar o projeto:
 - Aplicação de outros algorítmos.
 - Criação de um laço para rodar diversos modelos e avaliar resultados com o mesmo código.
 - Identificação e aplicação de metricas de avaliação mais adequadas.
-- Mais comentários ao longo do notebook informando a razão de cada uma das ações realizadas.
-- Inclusão de descobertas percebidas após a visualização de cada gráfico e de cada modelo.
 - Melhoria na visualização de cada gráfico presente no notebook.
 
 
-O dataset utilizado neste projeto pode ser encontrado no seguinte [link](https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset) do Kaggle.
+
