@@ -1,5 +1,5 @@
-![Vendedor entregando a chave do carro para o comprador.](https://github.com/filipecarbonera/Cars_Purchase_Decision/blob/main/car_purchase_image.jpg "capa do projeto")
 # Cars Purchase Decision
+![Vendedor entregando a chave do carro para o comprador.](https://github.com/filipecarbonera/Cars_Purchase_Decision/blob/main/car_purchase_image.jpg "capa do projeto")
 
 Com esse repositório pude treinar habilidades relacionadas a ciência de dados. Nele realizei uma análise exploratória dos dados, criei um modelo simplificado a partir de tal análise e, por fim, comparei tal modelo simplificado com um modelo de machine learning.
 
