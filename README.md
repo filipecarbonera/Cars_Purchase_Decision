@@ -11,3 +11,6 @@ Para avançar no projeto:
 - Mais comentários ao longo do notebook informando a razão de cada uma das ações realizadas.
 - Inclusão de descobertas percebidas após a visualização de cada gráfico e de cada modelo.
 - Melhoria na visualização de cada gráfico presente no notebook.
+
+
+O dataset utilizado neste projeto pode ser encontrado no seguinte [link](https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset) do Kaggle.
